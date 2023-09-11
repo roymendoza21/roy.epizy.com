@@ -39,7 +39,7 @@
         <div class="topBannerHome">
           <div class="siteHeading">
           <h1 class="pageTitle"  >Free Online Video Downloader</h1>
-          <h2 class="pageSubtitle"  >Download videos from de YouTube con gratis y más que esperas para comenzar comenzando y ahora es pro y mas rapido y actualizado.!</h2>
+          <h2 class="pageSubtitle"  >Download videos from de YouTube con gratis [herramienta no funcional en la actualidad por falta de complementos necesarios para su funcionamos]. y más que esperas para comenzar comenzando y ahora es pro y mas rapido y actualizado.!</h2>
         </div>
         <div class="container maxWidth">
         <?php if($config['enable_ads'] == true) {
