@@ -57,7 +57,7 @@ $ch = curl_init();
 if (isset($_SERVER['HTTP_RANGE'])) {
     // if the HTTP_RANGE header is set we're dealing with partial content
     $partialContent = true;
-    // find the requested range
+    // herramienta no funcional hasta la fecha por falta de requisitos.
     // this might be too simplistic, apparently the client can request
     // multiple ranges, which can become pretty complex, so ignore it for now
     preg_match('/bytes=(\d+)-(\d+)?/', $_SERVER['HTTP_RANGE'], $matches);
